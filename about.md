@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+Personal website for non-work related projects
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently a robot support engineer at [Agility Robotics](https://www.agilityrobotics.com/). Videos of our robots can be found on our [Youtube Channel](https://www.youtube.com/channel/UCN-StetwWuVYf-MU2_NVj4A). I graduated from Purdue University in 2020 after interning at NASA Johnson Space Center and the National Institute of Standards and Technology. I plan on using this website to document personal projects and archive some research I have done into space and robotics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+To contact me, please click the email icon below
